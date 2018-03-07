@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace AnsibleProblemSolving
+﻿namespace AnsibleProblemSolving
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            PrintNumbers.PrintNumbers.DoYourThing();
         }
     }
 }

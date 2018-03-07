@@ -21,6 +21,9 @@ namespace PrintNumbers
                     Console.WriteLine($"Number: {i} - Australia");
                 }
             }
+
+            Console.WriteLine("\nPress any key...");
+            Console.ReadKey();
         }
     }
 }
