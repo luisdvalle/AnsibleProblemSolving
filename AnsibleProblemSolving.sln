@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnsibleProblemSolving", "An
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{D5362D24-AFB6-488D-9BCD-9851400C59AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNumbers", "PrintNumbers\PrintNumbers.csproj", "{7418E884-4EE5-4A54-9F79-A4E7C604A1C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,11 +19,16 @@ Global
 		{0A2D824F-E318-4DDC-984A-420805E61034}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A2D824F-E318-4DDC-984A-420805E61034}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A2D824F-E318-4DDC-984A-420805E61034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7418E884-4EE5-4A54-9F79-A4E7C604A1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7418E884-4EE5-4A54-9F79-A4E7C604A1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7418E884-4EE5-4A54-9F79-A4E7C604A1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7418E884-4EE5-4A54-9F79-A4E7C604A1C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{7418E884-4EE5-4A54-9F79-A4E7C604A1C7} = {D5362D24-AFB6-488D-9BCD-9851400C59AE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B145F2ED-F931-4646-A710-E675A1F7DC87}
